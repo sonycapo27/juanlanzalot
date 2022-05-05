@@ -4,15 +4,15 @@ You can use the [editor on GitHub](https://github.com/sonycapo27/juanlanzalot/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Aprendiendo
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Coursera is so cool
+## Juancho Mucho Flow
 ### Header 3
 
 - Bulleted
